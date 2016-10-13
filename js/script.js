@@ -11,4 +11,8 @@ $(function(){
 		imp.next();
 		e.preventDefault();
 	});
+
+	$("#mail_btn").click(function(){
+			$("#mail_p").toggle();
+	});
 });
