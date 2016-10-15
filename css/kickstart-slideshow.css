@@ -22,9 +22,14 @@
 		}
 
 		.slideshow h2{
-			font-family:'Oneday', sans-serif;
+			font-family:'PT Sans Narrow', sans-serif;
 			color:#444648;
 		}
+
+		.slideshow h2.title{
+			font-family:'Oneday', sans-serif;
+		}
+
 		.slideshow p{
 			font-family: 'Open Sans', sans-serif;
 			color:#27333f;
