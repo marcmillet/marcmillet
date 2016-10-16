@@ -18,7 +18,7 @@
  */
 
 .grid{
-max-width:1000px;
+max-width:1024px;
 margin:0 auto;
 padding:0 2em;
 }
@@ -162,5 +162,7 @@ border:1px dotted #ccc;
 	.hide-tablet	{display:block;}
 	.show-phone		{display:block;}
 	.hide-phone		{display:none;}
+
+	.slideshow img{max-height: 10%;}
 
 }
