@@ -23,7 +23,7 @@
 
 		.slideshow h2{
 			font-family:'PT Sans Narrow', sans-serif;
-			color:#444648;
+			color:#000;
 		}
 
 		.slideshow h2.title{
@@ -76,9 +76,7 @@
 	-moz-box-shadow: 0 0 5px #ccc;
 	-webkit-box-shadow: 0 0 5px #ccc;
 	box-shadow: 0 0 5px #ccc;
-	border: solid #fff 5px;
 	left: 0;
-	background: #fff;
 }
 
 .bx-wrapper .bx-pager,
@@ -120,7 +118,7 @@
 }
 
 .bx-wrapper .bx-pager.bx-default-pager a {
-	background: #666;
+	background-color: rgba(255, 255, 255, 0.6);
 	text-indent: -9999px;
 	display: block;
 	width: 10px;
