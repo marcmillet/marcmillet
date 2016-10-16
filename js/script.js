@@ -11,8 +11,8 @@ $(function(){
 		imp.next();
 		e.preventDefault();
 	});
-
-	$("#mail_btn").click(function(){
-			$("#mail_p").toggle();
-	});
 });
+
+function wikiAlert(){
+	alert('Hire me and we will both get famous and have our own WikiPedia page!');
+};
